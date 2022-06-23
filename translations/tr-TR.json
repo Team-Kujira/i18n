@@ -194,7 +194,7 @@
     "Your Vote": "Oyunuz",
     "Not Voted": "Oy Verilmedi",
     "Weight": "Ağırlık",
-    "Quorum Passed": "Yeterli Çoğunluğa Ulaşışdı",
+    "Quorum Passed": "Yeterli Çoğunluğa Ulaşıldı",
     "Proposal 6 re-do": "Teklif 6yı yeniden değerlendir",
     "This corrects the init msg for the KUJI-LUNA market in proposal 6": "Bu, teklif 6'daki KUJİ-LUNA pazarı için init msg'yi düzeltir",
     "Create a KUJI-LUNA Market for Testnet": "Testnet için KUJI-LUNA pazarı oluşturun",
