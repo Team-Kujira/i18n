@@ -213,6 +213,27 @@
     "Mapped Kujira Address:": "Eşlenmiş Kujira Adresi",
     "Transfer Amount:": "Transfer Miktarı",
     "Transferring To:": "Buraya Transfer Edilecek",
-    "You will be asked to sign a transfer message to an account that begins `kujira`, and should match the address in your Keplr wallet. Once sent, the balance should appear in your Keplr wallet.": "Kujira ile başlayan ve Keplr cüzdanınızdaki adresle eşleşmesi gereken bir hesaba transfer mesajı imzalamanız istenecek. Gönderildikten sonra bakiye Keplr cüzdanınızda görünmelidir."
+    "You will be asked to sign a transfer message to an account that begins `kujira`, and should match the address in your Keplr wallet. Once sent, the balance should appear in your Keplr wallet.": "Kujira ile başlayan ve Keplr cüzdanınızdaki adresle eşleşmesi gereken bir hesaba transfer mesajı imzalamanız istenecek. Gönderildikten sonra bakiye Keplr cüzdanınızda görünmelidir.",
+    "Months": "Aylar",
+    "Scheduled emission": "Programlanmış Emisyon",
+    "Publicly circulating": "Genel Sirkülasyon",
+    "Actual Emission": "Gerçek Emisyon",
+    "Balance": "Bakiye",
+    "Add recipient": "Alıcı ekle",
+    "Recipient": "Alıcı",
+    "Identity": "Kimlik",
+    "Bonded Tokens": "Bond Edilen Tokenler",
+    "Self Delegation": "Kendine Delegasyon",
+    "Min Self Delegation": "Min Kendine Delegasyon",
+    "Account Address": "Hesap Adresi",
+    "Validator Address": "Doğrulayıcı Adresi",
+    "Consensus Public Address": "Genel Konsensüs Adresi",
+    "Hex Address": "Hex Adresi",
+    "Signer Address": "İmzalayan Adresi",
+    "Max Rate": "Maks. Oran",
+    "Max Change Rate": "Maks. Değişim Oranı"
+    "Voting Open": "Oylama Açık",
+    "Vote Yes": "Oy Ver EVET",
+    "Vote No": "Oy Ver HAYIR"
     
 }
