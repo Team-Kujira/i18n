@@ -236,11 +236,11 @@
   "Hex Address": "Dirección Hex",
   "Signer Address": "Dirección del Firmante",
   "Max Rate": "Máximo Ratio",
-  "Max Change Rate": "Máx. Modificación de Ratio"
+  "Max Change Rate": "Máx. Modificación de Ratio",
   "Voting Open": "Votación Abierta",
   "Vote Yes": "Votar Sí",
-  "Vote No": "Votar No"
- "Current block height": "Altura de Bloque Actual",
+  "Vote No": "Votar No",
+  "Current block height": "Altura de Bloque Actual",
   "Kujira Blockchain Explorer": "Explorador de Bloques de Kujira",
   "Search": "Buscar",
   "My bookmarks": "Mis marcadores",
