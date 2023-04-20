@@ -1,6 +1,5 @@
 name: JSON Validation
-on:
-  pull_request
+on: [push, pull_request]
 jobs:
   validate:
     runs-on: ubuntu-latest
