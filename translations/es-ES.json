@@ -259,7 +259,7 @@
   "Bookmarks": "Marcadores",
   "No bookmarks found": "No se han encontrado marcadores",
   "Address:": "Dirección",
-  "Balance": "Saldo"
+  "Balance": "Saldo",
   "Contact": "Contacto",
   "Redelegation available at": "Redelegación disponible el",
   "Uptime": "Uptime",
@@ -312,12 +312,12 @@
   "Self Liquidate": "Auto-Liquidar",
   "Closing Position": "Cerrando Posición",
   "Request rejected": "Petición denegada",
-  "Liquidating": "Liquidando"
+  "Liquidating": "Liquidando",
   "Your bid is being submitted": "Su puja se está enviando",
   "Bid successfully submitted, it can be activated in 10 minutes": "Puja enviada con éxito, puede ser activada en 10 munitos",
   "Please wait while your bid activates": "Espere mientras se activa su puja",
   "Your bid is now active": "Tu puja está activada",
   "Claiming Funds": "Reclamando Fondos",
-  "Funds Successfully Claimed": "Fondos Reclamados con Éxito"
+  "Funds Successfully Claimed": "Fondos Reclamados con Éxito",
   "Place My Bid": "Confirmar Puja"
 }
